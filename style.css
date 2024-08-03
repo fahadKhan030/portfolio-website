@@ -660,7 +660,6 @@ span {
   animation-play-state: paused;
 }
 
-
 .back img,
 .next img {
   display: flex;
@@ -681,7 +680,7 @@ span {
   right: 0px;
 }
 
-*/ .back {
+.back {
   right: 0px;
   z-index: 10;
 }
